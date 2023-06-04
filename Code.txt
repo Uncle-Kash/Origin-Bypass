@@ -1,0 +1,4 @@
+<Setting value="true" key="MigrationDisabled" type="1"/>
+<Setting key="UpdateURL" value="http://joe.rilla/" type="10"/>
+<Setting key="AutoPatchGlobal" value="false" type="1"/>
+<Setting key="AutoUpdate" value="false" type="1"/>
